@@ -11,7 +11,7 @@
 </div>
 
 <h1 align="center">
-    Build Python Data & AI web applications
+    Build Python Data & AI web application.
 </h1>
 
 <div align="center">
@@ -61,7 +61,7 @@ Taipy is designed for data scientists and machine learning engineers to build da
 &nbsp;
 
 <h4 align="left">
-Taipy is a Two-in-One Tool for UI Generation and Scenario & Data Management
+Taipy is a two-in-one tool for UI generation and scenario and data management.
 </h4>
 
 <br />
